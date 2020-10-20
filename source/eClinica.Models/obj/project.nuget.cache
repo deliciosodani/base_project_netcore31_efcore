@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "U5THZgW5XNiPncQiH6dJtle3EnixilwdqoHROtH8tsNmy0hm71fHKyjuao8/q33TP/NWDDzSsB+50rIrZk3hqg==",
+  "success": true,
+  "projectFilePath": "C:\\Repos\\Ucm\\eClinica2.0\\eClinica.BackEnd.API\\source\\eClinica.Models\\eClinica.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.5\\microsoft.aspnetcore.http.features.3.1.5.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.5\\microsoft.extensions.primitives.3.1.5.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\system.io.pipelines\\4.7.1\\system.io.pipelines.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
